@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EBbnQUYAQErCdUBpSDmtxQLUi2YFUedM0C/s+bY09oo=",
+  "Source": "HackatonApi",
+  "BasePath": "_content/HackatonApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
