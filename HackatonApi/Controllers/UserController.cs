@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace HackatonApi.Controllers;
 
 [ApiController]
-[Route("[controller]s")]
+[Route("api/[controller]s")]
 public class UserController : ControllerBase
 {
     private IApplicationDbContext _context;

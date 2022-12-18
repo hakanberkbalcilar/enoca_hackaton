@@ -11,7 +11,7 @@ namespace HackatonApi.Controllers;
 
 [ApiController]
 [Authorize]
-[Route("[controller]s")]
+[Route("api/[controller]s")]
 public class ProductController : ControllerBase
 {
     private readonly IApplicationDbContext _context;

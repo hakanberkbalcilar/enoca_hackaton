@@ -11,7 +11,7 @@ namespace HackatonApi.Controllers;
 
 [ApiController]
 [Authorize]
-[Route("Companies")]
+[Route("api/Companies")]
 public class CompanyController : ControllerBase
 {
     private readonly IApplicationDbContext _context;
